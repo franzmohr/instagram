@@ -1,0 +1,16 @@
+---
+output:
+  github_document:
+    html_preview: false
+---
+
+# instragram
+
+## Deutsch
+
+Auf dieser Seite befindet sich der R-Code für meine Posts auf Instagram unter [franzmohr_de](https://www.instagram.com/franzmohr_de/)
+
+## English
+
+This is a code repository for my posts on instagram under [franzmohr_en](https://www.instagram.com/franzmohr_en/).
+
