@@ -8,7 +8,7 @@ output:
 
 ## Deutsch
 
-Auf dieser Seite befindet sich der R-Code für meine Posts auf Instagram unter [franzmohr_de](https://www.instagram.com/franzmohr_de/)
+Auf dieser Seite befindet sich der R-Code für meine Posts auf Instagram unter [franzmohr_de](https://www.instagram.com/franzmohr_de/).
 
 ## English
 

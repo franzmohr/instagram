@@ -4,7 +4,7 @@
 ## Deutsch
 
 Auf dieser Seite befindet sich der R-Code für meine Posts auf Instagram
-unter [franzmohr\_de](https://www.instagram.com/franzmohr_de/)
+unter [franzmohr\_de](https://www.instagram.com/franzmohr_de/).
 
 ## English
 
