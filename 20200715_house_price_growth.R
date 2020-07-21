@@ -69,34 +69,3 @@ g <- ggplot(temp, aes(x = date, y = value, colour = name_de)) +
 
 ggsave(g, filename = "pics/20200715_house_price_growth_de.jpeg", height = 5, width = 5)
 
-g <- ggplot(real, aes(x = date, y = value)) +
-  geom_col(aes(fill = name_de), alpha = 1) +
-  geom_line(data = real_agg, aes(colour = "Gesamt"), size = 1.2) +
-  scale_x_yearqtr(expand = c(.01, 0), format = "%YQ%q", n = 10) +
-  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
-  scale_colour_manual(values = "darkgrey") +
-  scale_fill_viridis(discrete = TRUE, option = "D") +
-  guides(fill = guide_legend(ncol = 2)) +
-  labs(title = "Beitrag zum realen BIP-Wachstum (Österreich)",
-       subtitle = "Änderung in Prozentpunkten im Vergleich zum Vorjahreswert",
-       caption = "Quelle: Eurostat. Saison- und kalenderbereinigte Daten.") +
-  theme_instagram
-
-ggsave(g, filename = "pics/20200705_gdp_component_growth_de.jpeg", height = 5, width = 5)
-
-
-g <- ggplot(real, aes(x = date, y = value)) +
-  geom_col(aes(fill = name_en), alpha = 1) +
-  geom_line(data = real_agg, aes(colour = "Total"), size = 1.2) +
-  scale_x_yearqtr(expand = c(.01, 0), format = "%YQ%q", n = 10) +
-  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
-  scale_colour_manual(values = "darkgrey") +
-  scale_fill_viridis(discrete = TRUE, option = "D") +
-  guides(fill = guide_legend(ncol = 2)) +
-  labs(title = "Contribution to real GDP growth (Austria)",
-       subtitle = "Percentage point change compared to value in the previous year",
-       caption = "Source: Eurostat. Seasonally and calendar adjusted data.") +
-  theme_instagram
-
-ggsave(g, filename = "pics/20200705_gdp_components_growth_en.jpeg", height = 5, width = 5)
-
