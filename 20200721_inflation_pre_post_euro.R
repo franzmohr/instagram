@@ -32,8 +32,8 @@ temp <- bind_rows(pre, post) %>%
          index = value / value[1] * 100) %>%
   ungroup() %>%
   mutate(type_de = factor(type, levels = c("pre", "post"),
-                          labels = c("20 Jahre vor der Einführung des Euro\n(1979Q1 und 1998Q4)",
-                                     "20 Jahre ab der Einführung des Euro\n(1999Q1 und 2018Q4)")))
+                          labels = c("20 Jahre vor Einführung des Euro\n(1979Q1 bis 1998Q4)",
+                                     "20 Jahre ab Einführung des Euro\n(1999Q1 bis 2018Q4)")))
 
 source("theme_instagram.R")
 
@@ -47,7 +47,7 @@ g <- ggplot(temp, aes(x = time, y = index, colour = type_de)) +
   theme_instagram +
   theme(axis.text.x = element_blank())
 
-ggsave(g, filename = "pics/20200721_inflation_pre_post_eu_de.jpeg", height = 5, width = 5)
+ggsave(g, filename = "pics/20200721_inflation_pre_post_euro_de.jpeg", height = 5, width = 5)
 
 
 
