@@ -1,4 +1,4 @@
- rm(list = ls())
+rm(list = ls())
 
 library(dplyr)
 library(ggplot2)
@@ -35,8 +35,8 @@ temp <- bind_rows(pre, post) %>%
                           labels = c("20 Jahre vor Einführung des Euro\n(1979Q1 bis 1998Q4)",
                                      "20 Jahre ab Einführung des Euro\n(1999Q1 bis 2018Q4)")),
          type_en = factor(type, levels = c("pre", "post"),
-                          labels = c("20 years before the introduction\nof the euro (1979Q1 to 1998Q4)",
-                                     "20 years after the introduction\nof the euro(1999Q1 to 2018Q4)")))
+                          labels = c("20 years before introduction\nof the euro (1979Q1 to 1998Q4)",
+                                     "20 years after introduction\nof the euro(1999Q1 to 2018Q4)")))
 
 source("theme_instagram.R")
 # Deutsch
