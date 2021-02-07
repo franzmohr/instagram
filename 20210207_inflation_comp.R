@@ -43,7 +43,7 @@ line <- index %>%
   filter(coicop %in% c("CP00", "TOT_X_NRG_FOOD"),
          !is.na(values)) %>%
   mutate(line_de = factor(coicop, levels = c("CP00", "TOT_X_NRG_FOOD"),
-                         labels = c("HVPI-Inflation", "Kerninflation (ohne Energie, Nahrungsmittel)")),
+                          labels = c("HVPI-Inflation", "Kerninflation (ohne Energie, Nahrungsmittel)")),
          line_en = factor(coicop, levels = c("CP00", "TOT_X_NRG_FOOD"),
                           labels = c("HCPI-inflation", "Core inflation (w/o energy, food)")))
 
