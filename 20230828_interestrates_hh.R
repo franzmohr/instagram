@@ -80,7 +80,7 @@ g_deposit <- ggplot(hh_deposit, aes(x = date, y = value)) +
   facet_wrap(~grp) +
   guides(colour = guide_legend(ncol = 1, title = "")) +
   coord_cartesian(ylim = c(0, max_rate * 1.06), expand = FALSE) +
-  labs(caption = "Quelle: EZB-MIR (https://sdw.ecb.europa.eu/browse.do?node=1513). Code: www.github.com/franzmohr/instagram/20230828_interestrates_hh.") +
+  labs(caption = "Quelle: EZB-MIR (https://sdw.ecb.europa.eu/browse.do?node=1513). Code: www.github.com/franzmohr/instagram.") +
   theme(legend.position = "bottom",
         axis.title.x = element_blank(),
         axis.title.y = element_blank())
