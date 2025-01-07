@@ -1,0 +1,80 @@
+code,name_de,name_en
+GF01,Allgemeine öffentliche Verwaltung,General public services
+GF0101,"Exekutiv- und Legislativorgane, Finanz- und Steuerwesen, auswärtige Angelegenheiten","Executive and legislative organs, financial and fiscal affairs, external affairs"
+GF0102,Wirtschaftshilfe für das Ausland,Foreign economic aid
+GF0103,Allgemeine Dienste,General services
+GF0104,Grundlagenforschung,Basic research
+GF0105,Angewandte Forschung und experimentelle Entwicklung im Bereich allgemeine öffentliche Verwaltung,R&D General public services
+GF0106,"Allgemeine öffentliche Verwaltung, a.n.g.",General public services n.e.c.
+GF0107,Staatsschuldentransaktionen,Public debt transactions
+GF0108,Transfers allgemeiner Art zwischen verschiedenen staatlichen Ebenen,Transfers of a general character between different levels of government
+GF02,Verteidigung,Defence
+GF0201,Militärische Verteidigung,Military defence
+GF0202,Zivile Verteidigung,Civil defence
+GF0203,Militärhilfe für das Ausland,Foreign military aid
+GF0204,Angewandte Forschung und experimentelle Entwicklung im Bereich Verteidigung,R&D Defence
+GF0205,"Verteidigung, a.n.g.",Defence n.e.c.
+GF03,Öffentliche Ordnung und Sicherheit,Public order and safety
+GF0301,Polizei,Police services
+GF0302,Feuerwehr,Fire-protection services
+GF0303,Gerichte,Law courts
+GF0304,Justizvollzug,Prisons
+GF0305,Angewandte Forschung und experimentelle Entwicklung im Bereich öffentliche Ordnung und Sicherheit,R&D Public order and safety
+GF0306,"Öffentliche Ordnung und Sicherheit, a.n.g.",Public order and safety n.e.c.
+GF04,Wirtschaftliche Angelegenheiten,Economic affairs
+GF0401,Allgemeine Angelegenheiten der Wirtschaft und des Arbeitsmarkts,"General economic, commercial and labour affairs"
+GF0402,"Land- und Forstwirtschaft, Fischerei und Jagd","Agriculture, forestry, fishing and hunting"
+GF0403,Brennstoffe und Energie,Fuel and energy
+GF0404,"Bergbau, Herstellung von Waren und Bauwesen","Mining, manufacturing and construction"
+GF0405,Verkehr,Transport
+GF0406,Nachrichtenübermittlung,Communication
+GF0407,Andere Wirtschaftsbereiche,Other industries
+GF0408,Angewandte Forschung und experimentelle Entwicklung im Bereich wirtschaftliche Angelegenheiten,R&D Economic affairs
+GF0409,"Wirtschaftliche Angelegenheiten, a.n.g.",Economic affairs n.e.c.
+GF05,Umweltschutz,Environmental protection
+GF0501,Abfallwirtschaft,Waste management
+GF0502,Abwasserwirtschaft,Waste water management
+GF0503,Vermeidung und Beseitigung von Umweltverunreinigungen,Pollution abatement
+GF0504,Arten- und Landschaftsschutz,Protection of biodiversity and landscape
+GF0505,Angewandte Forschung und experimentelle Entwicklung im Bereich Umweltschutz,R&D Environmental protection
+GF0506,"Umweltschutz, a.n.g.",Environmental protection n.e.c.
+GF06,Wohnungswesen und kommunale Einrichtungen,Housing and community amenities
+GF0601,Wohnungswesen,Housing development
+GF0602,Raumplanung,Community development
+GF0603,Wasserversorgung,Water supply
+GF0604,Straßenbeleuchtung,Street lighting
+GF0605,Angewandte Forschung und experimentelle Entwicklung im Bereich Wohnungswesen und kommunale Einrichtungen,R&D Housing and community amenities
+GF0606,"Wohnungswesen und kommunale Einrichtungen, a.n.g.",Housing and community amenities n.e.c.
+GF07,Gesundheitswesen,Health
+GF0701,"Medizinische Erzeugnisse, Geräte und Ausrüstungen","Medical products, appliances and equipment"
+GF0702,Ambulante Behandlung,Outpatient services
+GF0703,Stationäre Behandlung,Hospital services
+GF0704,Öffentlicher Gesundheitsdienst,Public health services
+GF0705,Angewandte Forschung und experimentelle Entwicklung im Bereich Gesundheitswesen,R&D Health
+GF0706,"Gesundheitswesen, a.n.g.",Health n.e.c.
+GF08,"Freizeitgestaltung, Kultur und Religion","Recreation, culture and religion"
+GF0801,Freizeitgestaltung und Sport,Recreational and sporting services
+GF0802,Kultur,Cultural services
+GF0803,Rundfunk- und Verlagswesen,Broadcasting and publishing services
+GF0804,Religiöse und andere Gemeinschaftsangelegenheiten,Religious and other community services
+GF0805,"Angewandte Forschung und experimentelle Entwicklung im Bereich Freizeitgestaltung, Sport, Kultur und Religion","R&D Recreation, culture and religion"
+GF0806,"Freizeitgestaltung, Sport, Kultur und Religion, a.n.g.","Recreation, culture and religion n.e.c."
+GF09,Bildungswesen,Education
+GF0901,Elementar- und Primärbereich,Pre-primary and primary education
+GF0902,Sekundarbereich,Secondary education
+GF0903,"Post-sekundarer, nicht-tertiärer Bereich",Post-secondary non-tertiary education
+GF0904,Tertiärbereich,Tertiary education
+GF0905,Nicht zuordenbares Bildungswesen,Education not definable by level
+GF0906,Hilfsdienstleistungen für das Bildungswesen,Subsidiary services to education
+GF0907,Angewandte Forschung und experimentelle Entwicklung im Bereich Bildungswesen,R&D Education
+GF0908,"Bildungswesen, a.n.g.",Education n.e.c.
+GF10,Soziale Sicherung,Social protection
+GF1001,Krankheit und Erwerbsunfähigkeit,Sickness and disability
+GF1002,Alter,Old age
+GF1003,Hinterbliebene,Survivors
+GF1004,Familien und Kinder,Family and children
+GF1005,Arbeitslosigkeit,Unemployment
+GF1006,Wohnraum,Housing
+GF1007,"Soziale Hilfe, a.n.g.",Social exclusion n.e.c.
+GF1008,Angewandte Forschung und experimentelle Entwicklung im Bereich soziale Sicherung,R&D Social protection
+GF1009,"Soziale Sicherung, a.n.g.",Social protection n.e.c.
