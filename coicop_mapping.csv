@@ -1,0 +1,67 @@
+coicop,var_de,var_en
+CP01,Nahrungsmittel und\nalkoholfreie Getränke,
+CP011,Nahrungsmittel,Food
+CP0111,Brot und Getreideerzeugnisse,Bread and cereals
+CP0112,Fleisch,Meat
+CP0114,"Milch, Käse und Eier","Milk, cheese and eggs"
+CP012,Alkoholfreie Getränke,Non-alcoholic beverages
+CP02,"Alkoholische Getränke, Tabak und Narkotikum",
+CP021,Alkoholische Getränke,Alcoholic beverages
+CP022,Tabak,Tobacco
+CP03,Bekleidung und Schuhe,
+CP031,Bekleidung,Clothing
+CP0312,Bekleidungsartikel,Garments
+CP04,"Wohnung, Wasser, Elektrizität,\nGas und andere Brennstoffe",
+CP041,Wohnungsmieten,Actual rents for housing
+CP0411,Gezahlte Wohnungsmieten,Actual rents paid by tenants
+CP044,Wasserversorgung und sons-\ntige Dienstleistungen i.Z.m.\nder Wohnung,Water supply and\nmiscellaneous services\nrelating to the dwelling
+CP0444,Sonstige Dienstleistungen im Zu-\nsammenhang mit der Wohnung,Other services relating to the dwelling
+CP045,"Elektrizität, Gas und andere Brennstoffe","Electricity, gas and other fuels"
+CP0451,Elektrizität,Electricity
+CP0452,Gas,Gas
+CP0453,Flüssige Brennstoffe,Liquid fuels
+CP0454,Feste Brennstoffe,Solid fuels
+CP0455,Wärmeenergie,Heat energy
+CP05,Hausrat und laufende Instandhaltung des Hauses,
+CP051,"Einrichtungsgegenstände,\nBodenbeläge und\nReparaturen","Furniture and furnishings, carpets and other floor coverings"
+CP052,Heimtextilien,
+CP0511,Möbel und andere\nEinrichtungsgegenstände,Furniture and furnishings
+CP054,"Glaswaren, Geschirr und\nandere Gebrauchsgüter für\ndie Haushaltsführung",
+CP055,Werkzeuge und andere\nGebrauchsgüter für\nHaus und Garten,
+CP056,Waren und Dienst-\nleistungen für die lauf-\nende Haushaltsführung,Goods and services for\nroutine household\nmaintenance
+CP06,Gesundheit,
+CP062,Ambulante Dienst-\nleistungen,Out-patient services
+CP063,Krankenhaus-\ndienstleistungen,Hospital services
+CP07,Verkehr,
+CP071,Kauf von Kraftfahrzeugen,Purchase of vehicles
+CP0711,Neue und gebrauchte Kraftfahrzeuge,Motor cars
+CP072,Betrieb von privaten Verkehrsmitteln,Operation of personal transport equipment
+CP0722,Kraft- und Schmierstoffe,Fuels and lubricants for personal transport equipment
+CP0723,Instandhaltung und Reparatur,Maintenance and repair of personal transport equipment
+CP073,Verkehrsleistungen,Transport services
+CP08,Nachrichtenübermittlung,
+CP081,Postdienste,
+CP09,Freizeit und Kultur,
+CP092,Sonstige wesentliche\nGebrauchsgüter für Freizeit\nund Kultur,
+CP093,"Sonstige Freizeitartikel u.\n-geräte, Gartenartikel\nu. Heimtiere","Other recreational items\nand equipment,\ngardens and pets"
+CP094,Freizeit- und Kultur-\ndienstleistungen,Recreational and cultural services
+CP0941,Freizeit- und Sport-\ndienstleistungen,Recreational and sporting services
+CP095,"Zeitungen, Bücher und\nSchreibwaren","Newspapers, books\nand stationery"
+CP096,Pauschalreisen,Package holidays
+CO10,Bildungswesen,
+CP101,Kindergärten und Vorbildung,
+CP102,Schulbildung Sekundarstufe,
+CP103,"Post-sekundäre, nicht tertiäre Schulbildung",
+CP104,Tertiäre Schulbildung,
+CP11,Restaurants und Hotels,
+CP111,Catering-Dienstleistungen,Catering services
+CP1111,"Restaurants, Cafés\nund dergleichen","Restaurants, cafés\nand the like"
+CP112,Beherbergungsleistungen,Accomodation services
+CP12,Verschiedene Waren\nund Dienstleistungen,
+CP121,Körperpflege,Personal care
+CP124,Sozialschutz,Social protection
+CP125,Versicherungen,Insurance
+CP1252,Versicherungen im Zusammenhang mit der Wohnung,
+CP1255,Sonstige Versicherungen,
+CP127,Sonstige Dienstleistungen a.n.g,
+TOT_X_NRG_FOOD,Kerninflation,Core inflation
